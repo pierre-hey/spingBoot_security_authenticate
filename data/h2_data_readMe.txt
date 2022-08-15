@@ -1,0 +1,1 @@
+Pour initialiser la base de donnée embarquée H2, créé un fichier SpringSecurityDemo.mv.db à la racine de ce dossier
